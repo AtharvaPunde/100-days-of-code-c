@@ -1,7 +1,7 @@
 /* 
 * Name : Atharva Punde 
 * Roll : 560041860
-* Day  : 05  Question: 9
+* Day  : 05  Question: 10
 * Date : 17-08-2026 
 *
 * PROBLEM STATEMENT: 
