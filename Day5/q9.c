@@ -26,9 +26,9 @@ int main()
     int n;
     printf("Enter the number of times interest is compounded per year : ");
     scanf("%d", &n);
-    int temp1 = (1 + (r/n));
-    int temp2 = pow(temp1,n*t);
-    double comp = (((p * temp2) - p)/100);
+    double temp1 = 1 + (r/(100.0 * n));
+    double temp2 = pow(temp1, n * t);
+    double comp = (p * temp2) - p;
     printf("The Compound interest for Principal Amount of Rupees %d, Rate %d percent and time %d years is : %2f\n", p,r,t,comp);
     return 0;
 }
