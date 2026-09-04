@@ -2,7 +2,7 @@
 * Name : Atharva Punde 
 * Roll : 560041860
 * Day  : 01  Question: 2 
-* Date : 13-08-2026 
+* Date : 22-08-2026 
 *
 * PROBLEM STATEMENT: 
 * Q2: Write a program to input two numbers and display their sum, difference, product, and quotient.

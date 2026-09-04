@@ -2,7 +2,7 @@
 * Name : Atharva Punde 
 * Roll : 560041860
 * Day  : 03  Question: 6
-* Date : 15-08-2026 
+* Date : 24-08-2026 
 *
 * PROBLEM STATEMENT: 
 * Q6: Write a program to swap two numbers using a third variable.

@@ -1,8 +1,8 @@
 /* 
 * Name : Atharva Punde 
 * Roll : 560041860
-* Day  : 09  Question: 19
-* Date : 22-08-2026 
+* Day  : 10  Question: 19
+* Date : 31-08-2026 
 *
 * PROBLEM STATEMENT:
 * Q19: Write a program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.

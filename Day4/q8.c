@@ -2,7 +2,7 @@
 * Name : Atharva Punde 
 * Roll : 560041860
 * Day  : 04  Question: 8
-* Date : 16-08-2026 
+* Date : 25-08-2026 
 *
 * PROBLEM STATEMENT: 
 * Q8: Write a program to find and display the sum of the first n natural numbers.

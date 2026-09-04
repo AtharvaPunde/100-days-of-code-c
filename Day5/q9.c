@@ -2,7 +2,7 @@
 * Name : Atharva Punde 
 * Roll : 560041860
 * Day  : 05  Question: 9
-* Date : 17-08-2026 
+* Date : 26-08-2026 
 *
 * PROBLEM STATEMENT: 
 * Q9: Write a program to calculate simple and compound interest for given principal, rate, and time.

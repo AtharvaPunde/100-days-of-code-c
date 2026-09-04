@@ -2,7 +2,7 @@
 * Name : Atharva Punde 
 * Roll : 560041860
 * Day  : 09  Question: 17
-* Date : 21-08-2026 
+* Date : 30-08-2026 
 *
 * PROBLEM STATEMENT:
 * Q17: Write a program to find the roots of a quadratic equation and categorize them.

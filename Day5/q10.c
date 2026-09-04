@@ -2,7 +2,7 @@
 * Name : Atharva Punde 
 * Roll : 560041860
 * Day  : 05  Question: 10
-* Date : 17-08-2026 
+* Date : 26-08-2026 
 *
 * PROBLEM STATEMENT: 
 * Q10: Write a program to input time in seconds and convert it to hours:minutes:seconds format.

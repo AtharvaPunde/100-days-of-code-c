@@ -2,7 +2,7 @@
 * Name : Atharva Punde 
 * Roll : 560041860
 * Day  : 10  Question: 20
-* Date : 22-08-2026 
+* Date : 31-08-2026 
 *
 * PROBLEM STATEMENT:
 * Q20: Write a program to display the day of the week based on a number (1–7) using switch-case.
