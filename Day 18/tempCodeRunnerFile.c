@@ -1,15 +1,3 @@
-/* 
-* Name : Atharva Punde 
-* Roll : 560041860
-* Day  : 17  Question: 33
-* Date : 06-09-2026 
-*
-* PROBLEM STATEMENT:
-* Q33: Write a program to check if a number is an Armstrong number.
-*/
-
-
-
 #include<stdio.h>
 #include<math.h>
 int main()
