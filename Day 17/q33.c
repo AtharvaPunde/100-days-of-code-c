@@ -1,46 +1,53 @@
 /* 
 * Name : Atharva Punde 
 * Roll : 560041860
-* Day  : 16  Question: 32
+* Day  : 17  Question: 33
 * Date : 06-09-2026 
 *
 * PROBLEM STATEMENT:
-* Q32: Write a program to check if a number is a palindrome.
+* Q33: Write a program to check if a number is an Armstrong number.
 */
 
 
 
-#include<stdio.h>
-#include<math.h>
+#include <stdio.h>
+
+int power(int base, int exp)
+{
+    int result = 1;
+    for (int i = 0; i < exp; i++)
+        result *= base;
+    return result;
+}
+
 int main()
 {
-    int n;
-    int original;
-    int temp;
-    int t = 0;
-    int rem, arm = 0;
+    int n, original, temp, t = 0, rem, arm = 0;
+
     printf("Enter a number: ");
     scanf("%d", &n);
+
     original = n;
     temp = n;
-    do 
+
+    do
     {
-        n = n/10;
+        temp = temp / 10;
         t++;
-    } while (n != 0);
-    
-    for (;temp!=0; temp = temp/10)
+    } while (temp != 0);
+
+    temp = n;
+
+    for (; temp != 0; temp = temp / 10)
     {
         rem = temp % 10;
-        arm = arm + (int)round(pow(rem, t));
+        arm = arm + power(rem, t);
     }
+
     if (arm == original)
-    {
         printf("Armstrong Number");
-    }
-    else 
-    {
+    else
         printf("Not an Armstrong Number");
-    }
+
     return 0;
 }
