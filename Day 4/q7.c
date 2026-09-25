@@ -8,14 +8,15 @@
 * Q7: Write a program to swap two numbers without using a third variable.
 */
 
-#include<stdio.h>
-#include<math.h>
-int main()
-{
-    double c;
-    printf("Enter temperature in Celsius : ");
-    scanf("%lf", &c);
-    double f = ((c * 9/5) + 32);
-    printf("The temperature in fahrenheit is : %lf", f);
+#include <stdio.h>
+
+int main() {
+    int a = 10, b = 20;
+    
+    a = a + b;
+    b = a - b;
+    a = a - b;
+
+    printf("%d %d\n", a, b);
     return 0;
 }
